@@ -1,5 +1,5 @@
 # CPE342_Lab_QAgent_reinforcement-learning
-is this homework lab of Datamodel subject
+is this homework lab of Machine Learning subject
 
 the objective is to learn how Reinforcement Learning works 
 
